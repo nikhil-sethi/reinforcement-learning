@@ -1,0 +1,21 @@
+seed =  3130
+2021-05-30 10:09:54.655443: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+Using good policy maddpg and adv policy maddpg
+Starting iterations...
+steps: 49950, episodes: 1000, mean episode reward: -2733.512277361246, time: 109.35
+steps: 99950, episodes: 2000, mean episode reward: -581.9350683325893, time: 145.136
+steps: 149950, episodes: 3000, mean episode reward: 9.13270159715622, time: 144.33
+steps: 199950, episodes: 4000, mean episode reward: 87.5463806014653, time: 144.627
+steps: 249950, episodes: 5000, mean episode reward: 147.8377286855111, time: 144.627
+steps: 299950, episodes: 6000, mean episode reward: 186.65851811470503, time: 145.365
+steps: 349950, episodes: 7000, mean episode reward: 243.87462386858064, time: 144.73
+steps: 399950, episodes: 8000, mean episode reward: 386.972889907283, time: 142.482
+steps: 449950, episodes: 9000, mean episode reward: 430.4077641392915, time: 143.619
+steps: 499950, episodes: 10000, mean episode reward: 453.17818144585743, time: 159.492
+steps: 549950, episodes: 11000, mean episode reward: 467.01696437364245, time: 148.291
+steps: 599950, episodes: 12000, mean episode reward: 469.37062361226475, time: 148.398
+steps: 649950, episodes: 13000, mean episode reward: 465.12370788509435, time: 143.671
+steps: 699950, episodes: 14000, mean episode reward: 469.19440378728524, time: 141.215
+steps: 749950, episodes: 15000, mean episode reward: 470.9244495973963, time: 144.794
+steps: 799950, episodes: 16000, mean episode reward: 476.6834438740955, time: 140.606
+steps: 849950, episodes: 17000, mean episode reward: 486.2527810880388, time: 154.568

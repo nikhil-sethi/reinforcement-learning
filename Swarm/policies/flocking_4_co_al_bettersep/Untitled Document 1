@@ -1,0 +1,14 @@
+seed =  7465
+2021-05-30 10:38:23.036768: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+Using good policy maddpg and adv policy maddpg
+Starting iterations...
+steps: 49950, episodes: 1000, mean episode reward: -830.9289899067718, time: 112.872
+steps: 99950, episodes: 2000, mean episode reward: 461.6973756641521, time: 142.266
+steps: 149950, episodes: 3000, mean episode reward: 942.0161914078922, time: 142.094
+steps: 199950, episodes: 4000, mean episode reward: 1092.430159473559, time: 142.385
+steps: 249950, episodes: 5000, mean episode reward: 1152.565862986017, time: 150.03
+steps: 299950, episodes: 6000, mean episode reward: 1191.9690351496354, time: 150.654
+steps: 349950, episodes: 7000, mean episode reward: 1231.0037054188647, time: 148.13
+steps: 399950, episodes: 8000, mean episode reward: 1259.0977113083582, time: 143.871
+steps: 449950, episodes: 9000, mean episode reward: 1271.9157286460922, time: 144.958
+

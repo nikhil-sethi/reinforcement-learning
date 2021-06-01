@@ -1,0 +1,45 @@
+seed =  1039
+2021-05-30 12:25:42.199979: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+Using good policy maddpg and adv policy maddpg
+Starting iterations...
+steps: 49950, episodes: 1000, mean episode reward: -977.6401446975398, time: 110.152
+steps: 99950, episodes: 2000, mean episode reward: -366.4498052181437, time: 148.54
+steps: 149950, episodes: 3000, mean episode reward: -37.45255293616776, time: 147.187
+steps: 199950, episodes: 4000, mean episode reward: 120.40419561262489, time: 142.433
+steps: 249950, episodes: 5000, mean episode reward: 185.60898609526356, time: 137.071
+steps: 299950, episodes: 6000, mean episode reward: 217.36318617328243, time: 142.231
+steps: 349950, episodes: 7000, mean episode reward: 246.06086852654687, time: 141.474
+steps: 399950, episodes: 8000, mean episode reward: 247.44903871754434, time: 139.485
+steps: 449950, episodes: 9000, mean episode reward: 252.85774461445078, time: 137.178
+steps: 499950, episodes: 10000, mean episode reward: 262.45100898070615, time: 134.446
+steps: 549950, episodes: 11000, mean episode reward: 270.7797797578188, time: 130.727
+steps: 599950, episodes: 12000, mean episode reward: 273.7780732018859, time: 130.113
+steps: 649950, episodes: 13000, mean episode reward: 274.3801547538821, time: 127.735
+steps: 699950, episodes: 14000, mean episode reward: 275.8856872428256, time: 128.573
+steps: 749950, episodes: 15000, mean episode reward: 278.73359129156194, time: 128.432
+steps: 799950, episodes: 16000, mean episode reward: 279.75863186798586, time: 134.412
+steps: 849950, episodes: 17000, mean episode reward: 281.492900079109, time: 128.249
+steps: 899950, episodes: 18000, mean episode reward: 281.6558838673049, time: 127.781
+steps: 949950, episodes: 19000, mean episode reward: 286.829757946777, time: 129.261
+steps: 999950, episodes: 20000, mean episode reward: 289.16958250609264, time: 129.694
+steps: 1049950, episodes: 21000, mean episode reward: 291.1016765786227, time: 128.113
+steps: 1099950, episodes: 22000, mean episode reward: 293.7209563445485, time: 129.887
+steps: 1149950, episodes: 23000, mean episode reward: 298.600162017357, time: 127.877
+steps: 1199950, episodes: 24000, mean episode reward: 297.15843782105065, time: 127.936
+steps: 1249950, episodes: 25000, mean episode reward: 299.00479874609135, time: 126.94
+steps: 1299950, episodes: 26000, mean episode reward: 302.86605440773207, time: 127.665
+steps: 1349950, episodes: 27000, mean episode reward: 304.6803863706754, time: 127.479
+steps: 1399950, episodes: 28000, mean episode reward: 310.269788621559, time: 127.951
+steps: 1449950, episodes: 29000, mean episode reward: 308.6271700428909, time: 127.652
+steps: 1499950, episodes: 30000, mean episode reward: 308.20219103623094, time: 127.805
+steps: 1549950, episodes: 31000, mean episode reward: 310.92730832981107, time: 128.995
+steps: 1599950, episodes: 32000, mean episode reward: 315.85819695495917, time: 128.482
+steps: 1649950, episodes: 33000, mean episode reward: 316.2288888682138, time: 128.607
+steps: 1699950, episodes: 34000, mean episode reward: 318.406964947358, time: 128.887
+steps: 1749950, episodes: 35000, mean episode reward: 317.28938512288966, time: 128.465
+steps: 1799950, episodes: 36000, mean episode reward: 324.00407023882053, time: 127.686
+steps: 1849950, episodes: 37000, mean episode reward: 325.19516774147695, time: 127.414
+steps: 1899950, episodes: 38000, mean episode reward: 326.34516591657245, time: 127.723
+steps: 1949950, episodes: 39000, mean episode reward: 331.2612228005567, time: 131.334
+steps: 1999950, episodes: 40000, mean episode reward: 332.4802063583907, time: 133.066
+steps: 2049950, episodes: 41000, mean episode reward: 330.7068402138779, time: 134.325
